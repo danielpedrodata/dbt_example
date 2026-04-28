@@ -4,3 +4,5 @@ target/
 dbt_packages/
 logs/
 .env
+example_project.yml
+example_sources.yml
